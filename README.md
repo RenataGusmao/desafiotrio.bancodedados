@@ -1,4 +1,4 @@
-# desafiotrio.bancodedados
+# Desafio Editora - Banco de dados
 Repositório para atividade avaliativa - BD - Editora
 O banco de dados foi projetado para uma Editora e tem como objetivo controlar as informações referentes a livros, seus autores, exemplares, clientes, funcionários, pedidos e toda a estrutura associada às operações da empresa.
 
